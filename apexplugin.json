@@ -1,35 +1,32 @@
 {
-  "name" : "GuidedTour",
-  "version" : "1.0",
-  "description" : "It´s useful to guide your users through the application, or give your users a first run wizard to explain parts of your app.",
-  "keywords" : ["guide", "tour", "shepherd", "firstrun"],
-  "homepage" : "https://github.com/Dani3lSun/apex-plugin-guidedtour",
-  "bugs" : {
-    "url" : "https://github.com/Dani3lSun/apex-plugin-guidedtour/issues",
-    "email" : "daniel@danielh.de"
+  "name": "AmountInWords",
+  "version": "1.0",
+  "description": "Converts an amount to English words with currency units.",
+  "keywords": ["amount", "words", "number to words", "currency"],
+  "homepage": "https://github.com/Kaisar-Ahmad-DB/apex-amount-in-words-plugin",
+  "bugs": {
+    "url": "https://github.com/Kaisar-Ahmad-DB/apex-amount-in-words-plugin/issues",
+    "email": "kaisarahmed001@gmail.com"
   },
-  "license" : "MIT",
-  "commercial" : "No",
-  "author" : {
-    "name" : "Daniel Hochleitner",
-    "email" : "daniel@danielh.de",
-    "url" : "https://danielhochleitner.de/"
-    "twitter" : "Dani3lSun"
-    "donationUrl" : "https://www.paypal.me/DanielHochleitnerIT/3"
+  "license": "MIT",
+  "commercial": "No",
+  "author": {
+    "name": "Kaisar Ahmad",
+    "email": "kaisarahmed001@gmail.com",
+    "url": "https://www.linkedin.com/in/kaisar-ahmad-81b191100/"
   },
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/Dani3lSun/apex-plugin-guidedtour.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Kaisar-Ahmad-DB/apex-amount-in-words-plugin.git"
   },
-  "oracle" : {
-    "versions" : ["11.2.0.1", "12.1.0.1"],
-    "apex" : {
-      "versions" : ["5.0.0"],
-      "plugin" : {
-        "internalName" : "DE.DANIELH.GT.NEWINSTANCE",
-        "type" : "dynamic action",
-        "demo" : "https://apex.oracle.com/pls/apex/f?p=57743:1",
-        "previewImage" : "https://raw.githubusercontent.com/Dani3lSun/apex-plugin-guidedtour/master/preview.png"
+  "oracle": {
+    "versions": ["19c"],
+    "apex": {
+      "versions": ["22.2"],
+      "plugin": {
+        "internalName": "Amount In Words",
+        "type": "dynamic action",
+        "previewImage": "https://raw.githubusercontent.com/Kaisar-Ahmad-DB/apex-amount-in-words-plugin/main/docs/screenshots/test-page.png"
       }
     }
   }
