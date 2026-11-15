@@ -22,8 +22,8 @@ Useful for bills, invoices, challans, cheques and vouchers, wherever an "amount 
 
 ## Screenshots
 
-![Plug-in in action](docs/screenshots/01-demo.png)
-![Plug-in attributes](docs/screenshots/02-attributes.png)
+![Plug-in in action](docs/screenshots/test-page.png)
+![Plug-in attributes](docs/screenshots/Attributes.jpg)
 
 ## Installation
 
