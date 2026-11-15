@@ -24,7 +24,7 @@
     "apex": {
       "versions": ["22.2"],
       "plugin": {
-        "internalName": "Amount In Words",
+        "internalName": "COM.GITHUB.KAISAR-AHMAD-DB.AMOUNT_INWORD",
         "type": "dynamic action",
         "demo": "https://oracleapex.com/ords/r/ddd42_lab/master-detail-generator/in-word-plugin",
         "previewImage": "https://raw.githubusercontent.com/Kaisar-Ahmad-DB/apex-amount-in-words-plugin/main/docs/screenshots/test-page.png"
