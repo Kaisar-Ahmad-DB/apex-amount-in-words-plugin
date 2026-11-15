@@ -19,10 +19,10 @@
     "type": "git",
     "url": "https://github.com/Kaisar-Ahmad-DB/apex-amount-in-words-plugin.git"
   },
-  "oracle": {
-    "versions": ["19c"],
-    "apex": {
-      "versions": ["22.2"],
+"oracle": {
+  "versions": ["19.0.0.0"],
+  "apex": {
+    "versions": ["22.2.0"],
       "plugin": {
         "internalName": "COM.GITHUB.KAISAR-AHMAD-DB.AMOUNT_INWORD",
         "type": "dynamic action",
