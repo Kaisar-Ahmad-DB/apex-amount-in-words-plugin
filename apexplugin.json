@@ -26,6 +26,7 @@
       "plugin": {
         "internalName": "Amount In Words",
         "type": "dynamic action",
+        "demo": "https://oracleapex.com/ords/r/ddd42_lab/master-detail-generator/in-word-plugin",
         "previewImage": "https://raw.githubusercontent.com/Kaisar-Ahmad-DB/apex-amount-in-words-plugin/main/docs/screenshots/test-page.png"
       }
     }
