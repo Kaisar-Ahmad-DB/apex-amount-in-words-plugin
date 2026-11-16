@@ -123,5 +123,5 @@ MIT
 
 ## Author
 
-**Your Name**, Oracle APEX and PL/SQL developer
-[LinkedIn](https://www.linkedin.com/in/your-profile) · [GitHub](https://github.com/kaisar-ahmad-db)
+**Kaisar Ahmad**, Oracle APEX and PL/SQL developer
+[LinkedIn](https://www.linkedin.com/in/kaisar-ahmad-81b191100) · [GitHub](https://github.com/kaisar-ahmad-db)
