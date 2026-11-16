@@ -49,7 +49,7 @@ begin
 wwv_flow_imp_shared.create_plugin(
  p_id=>wwv_flow_imp.id(969724655200665646)
 ,p_plugin_type=>'DYNAMIC ACTION'
-,p_name=>'COM.GITHUB.KAISAR-AHMAD-DB.AMOUNT_INWORD'
+,p_name=>'COM.GITHUB.KAISARAHMADDB.AMOUNT_INWORD'
 ,p_display_name=>'Amount In Words'
 ,p_category=>'COMPONENT'
 ,p_javascript_file_urls=>'#PLUGIN_FILES#amount_in_words.js'
